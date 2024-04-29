@@ -62,7 +62,7 @@ const Navbar = () => {
                 className={({ isActive }) =>
                   isActive ? "navlinked" : "navlinks"
                 }
-                to="/zion-graphics/about-us"
+                to="/about-us"
               >
                 About Us
               </NavLink>
@@ -70,7 +70,7 @@ const Navbar = () => {
                 className={({ isActive }) =>
                   isActive ? "navlinked" : "navlinks"
                 }
-                to="/zion-graphics/contact"
+                to="/contact"
               >
                 Contact
               </NavLink>
@@ -78,7 +78,7 @@ const Navbar = () => {
                 className={({ isActive }) =>
                   isActive ? "navlinked" : "navlinks"
                 }
-                to="/zion-graphics/products"
+                to="/products"
               >
                 Products
               </NavLink>
