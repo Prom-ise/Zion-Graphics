@@ -190,8 +190,13 @@
   .navs, .footers{
     display: block;
   }
-  .active, .no-active, .zion{
+  .active, .no-active{
     color: white;
+    font-size: 12.5px;
+  }
+  .zion{
+    color: white;
+    font-size: 10px;
   }
   .zion-logo{
     display: block;
@@ -751,7 +756,6 @@
   box-sizing: border-box;
   border: none;
   background-color: gainsboro;
-  
 }
 .contactUs{
   font-size: 60px;
@@ -796,6 +800,24 @@
   margin: 2em 0;
   text-align: center;
 }
+
+/* CONTACT PAGE & ABOUT PAGE RESPONSIVENESS */
+@media (max-width: 500px) {
+  .aboutPage, .secAboutPage{
+    padding: 1em;
+  }
+  .contactUs, .aboutText{
+    font-size: 40px;
+    font-weight: 600;
+  }
+  .contactTouch{
+    font-size: 25px;
+  }
+  .aboutNote{
+    font-size: 20px;
+  }
+}
+
 
 /* PRODUCT PAGE */
 .productPage{
@@ -903,6 +925,11 @@
     padding: 2em 1em;
   }
   .card{
-    width: 16em;
+    width: 14em;
+  }
+}
+@media (max-width: 290px){
+  .card{
+    width: 6em;
   }
 }

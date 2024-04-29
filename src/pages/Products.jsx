@@ -46,7 +46,7 @@ const Service = () => {
         <div className='productTitle'>Stickers</div>
         <div className="stickerText">Our stickers: Bursting with personality, perfect for laptops, phones, and more. Add flair to your life – shop now!</div>
         <div className="row">
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
             
@@ -59,7 +59,7 @@ const Service = () => {
           </div>
 
 
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               
@@ -71,7 +71,7 @@ const Service = () => {
             </a>
           </div>
 
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               
@@ -85,7 +85,7 @@ const Service = () => {
         </div>
 
         <div className="row">
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               
@@ -97,7 +97,7 @@ const Service = () => {
             </a>
           </div>
 
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               
@@ -108,7 +108,7 @@ const Service = () => {
             </div>
             </a>
           </div>
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               
@@ -123,7 +123,7 @@ const Service = () => {
 
 
         <div className="row">
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
             <img src={stick9} className="image"/>
@@ -133,7 +133,7 @@ const Service = () => {
             </a>
           </div>
 
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               
@@ -152,7 +152,7 @@ const Service = () => {
         <div className="stickerText">Our banner designs: Captivating, versatile, and ready to make a statement. Elevate your space – shop now! 🚀🎨</div>
         <div className="row">
 
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               
@@ -163,7 +163,7 @@ const Service = () => {
             </div>
             </a>
           </div>
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               
@@ -175,7 +175,7 @@ const Service = () => {
             </a>
           </div>
 
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               
@@ -187,7 +187,7 @@ const Service = () => {
             </a>
           </div>
 
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               
@@ -199,7 +199,7 @@ const Service = () => {
             </a>
           </div>
 
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               
@@ -217,7 +217,7 @@ const Service = () => {
       <div className='productTitle'>Logos</div>
         <div className="stickerText">Our logo designs: Distinctive, memorable, and tailored to your brand. Make your mark – order now! 💼🎨</div>
         <div className='row'>
-        <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+        <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               
@@ -228,7 +228,7 @@ const Service = () => {
             </div>
             </a>
           </div>
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               
@@ -239,7 +239,7 @@ const Service = () => {
             </div>
             </a>
           </div>
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               
@@ -250,7 +250,7 @@ const Service = () => {
             </div>
             </a>
           </div>
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               
@@ -268,7 +268,7 @@ const Service = () => {
       <div className='productTitle'>Posters</div>
         <div className="stickerText">Our poster designs: Bold, eye-catching, and guaranteed to turn heads. Stand out from the crowd – shop now! 🌟🎨</div>
         <div className='row'>
-          <div className='col-lg-4 md-4 col-sm-12 col-12'>
+          <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
           <a href="https://wa.me/c/2349032464294">
           <div className="cards">
             
@@ -280,7 +280,7 @@ const Service = () => {
             </a>
           </div>
 
-          <div className='col-lg-4 md-4 col-sm-12 col-12'>
+          <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
           <a href="https://wa.me/c/2349032464294">
           <div className="cards">
             
@@ -292,7 +292,7 @@ const Service = () => {
             </a>
           </div>
 
-          <div className='col-lg-4 md-4 col-sm-12 col-12'>
+          <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
           <a href="https://wa.me/c/2349032464294">
           <div className="cards">
             
@@ -306,7 +306,7 @@ const Service = () => {
         </div>
 
         <div className='row'>
-          <div className='col-lg-4 md-4 col-sm-12 col-12'>
+          <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
           <a href="https://wa.me/c/2349032464294">
           <div className="cards">
             
@@ -318,7 +318,7 @@ const Service = () => {
             </a>
           </div>
 
-          <div className='col-lg-4 md-4 col-sm-12 col-12'>
+          <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
           <a href="https://wa.me/c/2349032464294">
           <div className="cards">
             
@@ -330,7 +330,7 @@ const Service = () => {
             </a>
           </div>
 
-          <div className='col-lg-4 md-4 col-sm-12 col-12'>
+          <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
           <a href="https://wa.me/c/2349032464294">
           <div className="cards">
             
@@ -342,7 +342,7 @@ const Service = () => {
             </a>
           </div>
 
-          <div className='col-lg-4 md-4 col-sm-12 col-12'>
+          <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
           <a href="https://wa.me/c/2349032464294">
           <div className="cards">
             
@@ -354,7 +354,7 @@ const Service = () => {
             </a>
           </div>
 
-          <div className='col-lg-4 md-4 col-sm-12 col-12'>
+          <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
           <a href="https://wa.me/c/2349032464294">
           <div className="cards">
             
@@ -373,7 +373,7 @@ const Service = () => {
         <div className="stickerText">Our business card and ID card designs: Professional, sleek, and customized to leave a lasting impression. Elevate your brand – order yours today! 💼🔖
 </div>
 <div className='row'>
-  <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+  <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
     
@@ -385,7 +385,7 @@ const Service = () => {
             </a>
   </div>
 
-  <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+  <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
     
@@ -397,7 +397,7 @@ const Service = () => {
             </a>
   </div>
 
-  <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+  <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
     
@@ -411,7 +411,7 @@ const Service = () => {
 </div>
 
 <div className='row'>
-  <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+  <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
     
@@ -423,7 +423,7 @@ const Service = () => {
             </a>
   </div>
 
-  <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+  <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
     
@@ -435,7 +435,7 @@ const Service = () => {
             </a>
   </div>
 
-  <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+  <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
     
@@ -453,7 +453,7 @@ const Service = () => {
       <div className='productTitle'>Flyers</div>
         <div className="stickerText">Our flyer designs: Vibrant, engaging, and designed to make an impact. Spread your message – order now! 🚀🎨</div>
         <div className='row'>
-        <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+        <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
     
@@ -465,7 +465,7 @@ const Service = () => {
             </a>
   </div>
 
-  <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+  <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
     
@@ -477,7 +477,7 @@ const Service = () => {
             </a>
   </div>
 
-  <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+  <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
     
@@ -490,7 +490,7 @@ const Service = () => {
   </div>
 </div>
 <div className='row'>
-  <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+  <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
     
@@ -502,7 +502,7 @@ const Service = () => {
             </a>
   </div>
 
-  <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+  <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
     
@@ -514,7 +514,7 @@ const Service = () => {
             </a>
   </div>
 
-  <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+  <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
     
@@ -527,7 +527,7 @@ const Service = () => {
   </div>
 </div>
 <div className='row'>
-  <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+  <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
     
@@ -539,7 +539,7 @@ const Service = () => {
             </a>
   </div>
 
-  <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+  <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
             <img src={stick18} className="image"/>
