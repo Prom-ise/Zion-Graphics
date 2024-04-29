@@ -10,7 +10,7 @@ const BusinessLogo = () => {
       <div className='productTitle'>Logos</div>
         <div className="stickerText">Our logo designs: Distinctive, memorable, and tailored to your brand. Make your mark – order now! 💼🎨</div>
         <div className='row'>
-        <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+        <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               
@@ -21,7 +21,7 @@ const BusinessLogo = () => {
             </div>
             </a>
           </div>
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               
@@ -32,7 +32,7 @@ const BusinessLogo = () => {
             </div>
             </a>
           </div>
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               
@@ -43,7 +43,7 @@ const BusinessLogo = () => {
             </div>
             </a>
           </div>
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               

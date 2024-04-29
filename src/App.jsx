@@ -24,20 +24,20 @@ function App() {
     <div className="background">
      <Navbar/>
      <Routes>
-     <Route path='/zion-graphics' element={<Homepage/>} />
+     {/* <Route path='/zion-graphics' element={<Homepage/>} /> */}
      <Route path='/' element={<Homepage/>}/>
-     <Route path='/zion-graphics/terms' element={<Terms/>}/>
-     <Route path='/zion-graphics/privacy' element={<Privacy/>}/>
-     <Route path='/zion-graphics/about-us' element={<About/>}/>
-     <Route path='/zion-graphics/contact' element={<Contact/>}/>
-     <Route path='/zion-graphics/products' element={<Product/>}/>
-     <Route path='/zion-graphics/products/banners' element={<Banner/>}/>
-     <Route path='/zion-graphics/products/business-cards' element={<BusinessCards/>}/>
-     <Route path='/zion-graphics/products/business-logos' element={<BusinessLogo/>}/>
-     <Route path='/zion-graphics/products/id-cards' element={<Cards/>}/>
-     <Route path='/zion-graphics/products/stickers' element={<Sticker/>}/>
-     <Route path='/zion-graphics/products/flyers' element={<Flyer/>}/>
-     <Route path='/zion-graphics/products/posters' element={<Poster/>}/>
+     <Route path='/terms' element={<Terms/>}/>
+     <Route path='/privacy' element={<Privacy/>}/>
+     <Route path='/about-us' element={<About/>}/>
+     <Route path='/contact' element={<Contact/>}/>
+     <Route path='/products' element={<Product/>}/>
+     <Route path='/products/banners' element={<Banner/>}/>
+     <Route path='/products/business-cards' element={<BusinessCards/>}/>
+     <Route path='/products/business-logos' element={<BusinessLogo/>}/>
+     <Route path='/products/id-cards' element={<Cards/>}/>
+     <Route path='/products/stickers' element={<Sticker/>}/>
+     <Route path='/products/flyers' element={<Flyer/>}/>
+     <Route path='/products/posters' element={<Poster/>}/>
      <Route path='*' element={<NotFound/>}/>
      </Routes>
      <Footer/>

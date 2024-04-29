@@ -13,7 +13,7 @@ const Banner = () => {
         <div className="stickerText">Our banner designs: Captivating, versatile, and ready to make a statement. Elevate your space – shop now! 🚀🎨</div>
         <div className="row">
 
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               
@@ -24,7 +24,7 @@ const Banner = () => {
             </div>
             </a>
           </div>
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               
@@ -36,7 +36,7 @@ const Banner = () => {
             </a>
           </div>
 
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               
@@ -48,7 +48,7 @@ const Banner = () => {
             </a>
           </div>
 
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               
@@ -60,7 +60,7 @@ const Banner = () => {
             </a>
           </div>
 
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               

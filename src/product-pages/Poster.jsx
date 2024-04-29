@@ -14,7 +14,7 @@ const Poster = () => {
       <div className='productTitle'>Posters</div>
         <div className="stickerText">Our poster designs: Bold, eye-catching, and guaranteed to turn heads. Stand out from the crowd – shop now! 🌟🎨</div>
         <div className='row'>
-          {/* <div className='col-lg-4 md-4 col-sm-12 col-12'>
+          {/* <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
           <a href="https://wa.me/c/2349032464294">
           <div className="cards">
             
@@ -26,7 +26,7 @@ const Poster = () => {
             </a>
           </div> */}
 
-          <div className='col-lg-4 md-4 col-sm-12 col-12'>
+          <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
           <a href="https://wa.me/c/2349032464294">
           <div className="cards">
             
@@ -38,7 +38,7 @@ const Poster = () => {
             </a>
           </div>
 
-          <div className='col-lg-4 md-4 col-sm-12 col-12'>
+          <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
           <a href="https://wa.me/c/2349032464294">
           <div className="cards">
             
@@ -52,7 +52,7 @@ const Poster = () => {
         </div>
 
         <div className='row'>
-          <div className='col-lg-4 md-4 col-sm-12 col-12'>
+          <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
           <a href="https://wa.me/c/2349032464294">
           <div className="cards">
             
@@ -64,7 +64,7 @@ const Poster = () => {
             </a>
           </div>
 
-          <div className='col-lg-4 md-4 col-sm-12 col-12'>
+          <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
           <a href="https://wa.me/c/2349032464294">
           <div className="cards">
             
@@ -76,7 +76,7 @@ const Poster = () => {
             </a>
           </div>
 
-          <div className='col-lg-4 md-4 col-sm-12 col-12'>
+          <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
           <a href="https://wa.me/c/2349032464294">
           <div className="cards">
             
@@ -88,7 +88,7 @@ const Poster = () => {
             </a>
           </div>
 
-          <div className='col-lg-4 md-4 col-sm-12 col-12'>
+          <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
           <a href="https://wa.me/c/2349032464294">
           <div className="cards">
             
@@ -100,7 +100,7 @@ const Poster = () => {
             </a>
           </div>
 
-          <div className='col-lg-4 md-4 col-sm-12 col-12'>
+          <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
           <a href="https://wa.me/c/2349032464294">
           <div className="cards">
             

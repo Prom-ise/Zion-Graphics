@@ -13,7 +13,7 @@ const BusinessCards = () => {
         <div className="stickerText">Our business card and ID card designs: Professional, sleek, and customized to leave a lasting impression. Elevate your brand – order yours today! 💼🔖
 </div>
 <div className='row'>
-  <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+  <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
     
@@ -25,7 +25,7 @@ const BusinessCards = () => {
             </a>
   </div>
 
-  <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+  <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
     
@@ -37,7 +37,7 @@ const BusinessCards = () => {
             </a>
   </div>
 
-  <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+  <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
     
@@ -51,7 +51,7 @@ const BusinessCards = () => {
 </div>
 
 <div className='row'>
-  <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+  <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
     
@@ -63,7 +63,7 @@ const BusinessCards = () => {
             </a>
   </div>
 
-  <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+  <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
     
@@ -75,7 +75,7 @@ const BusinessCards = () => {
             </a>
   </div>
 
-  <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+  <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
     

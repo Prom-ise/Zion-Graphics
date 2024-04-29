@@ -15,7 +15,7 @@ const Sticker = () => {
         <div className='productTitle'>Stickers</div>
         <div className="stickerText">Our stickers: Bursting with personality, perfect for laptops, phones, and more. Add flair to your life – shop now!</div>
         <div className="row">
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
             
@@ -28,7 +28,7 @@ const Sticker = () => {
           </div>
 
 
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               
@@ -40,7 +40,7 @@ const Sticker = () => {
             </a>
           </div>
 
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               
@@ -54,7 +54,7 @@ const Sticker = () => {
         </div>
 
         <div className="row">
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               
@@ -66,7 +66,7 @@ const Sticker = () => {
             </a>
           </div>
 
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               
@@ -77,7 +77,7 @@ const Sticker = () => {
             </div>
             </a>
           </div>
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               
@@ -92,7 +92,7 @@ const Sticker = () => {
 
 
         <div className="row">
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
             <img src={stick9} className="image"/>
@@ -102,7 +102,7 @@ const Sticker = () => {
             </a>
           </div>
 
-          <div className="col-lg-4 col-md-4 col-sm-12 col-12">
+          <div className="col-lg-4 col-md-6 col-sm-12 col-12">
             <a href="https://wa.me/c/2349032464294">
             <div className="cards">
               

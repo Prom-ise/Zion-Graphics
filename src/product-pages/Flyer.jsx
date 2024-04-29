@@ -15,7 +15,7 @@ const Flyer = () => {
       <div className='productTitle'>Flyers</div>
         <div className="stickerText">Our flyer designs: Vibrant, engaging, and designed to make an impact. Spread your message – order now! 🚀🎨</div>
         <div className='row'>
-        <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+        <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
     
@@ -27,7 +27,7 @@ const Flyer = () => {
             </a>
   </div>
 
-  <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+  <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
     
@@ -39,7 +39,7 @@ const Flyer = () => {
             </a>
   </div>
 
-  <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+  <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
     
@@ -52,7 +52,7 @@ const Flyer = () => {
   </div>
 </div>
 <div className='row'>
-  <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+  <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
     
@@ -64,7 +64,7 @@ const Flyer = () => {
             </a>
   </div>
 
-  <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+  <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
     
@@ -76,7 +76,7 @@ const Flyer = () => {
             </a>
   </div>
 
-  <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+  <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
     
@@ -89,7 +89,7 @@ const Flyer = () => {
   </div>
 </div>
 <div className='row'>
-  <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+  <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
     
@@ -101,7 +101,7 @@ const Flyer = () => {
             </a>
   </div>
 
-  <div className='col-lg-4 col-md-4 col-sm-12 col-12'>
+  <div className='col-lg-4 col-md-6 col-sm-12 col-12'>
   <a href="https://wa.me/c/2349032464294">
   <div className="cards">
             <img src={stick18} className="image"/>
