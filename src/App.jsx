@@ -24,8 +24,8 @@ function App() {
     <div className="background">
      <Navbar/>
      <Routes>
-     <Route path='/' element={<Navigate to='/zion-graphics'/>} />
-     <Route path='/zion-graphics' element={<Homepage/>}/>
+     <Route path='/zion-graphics' element={<Homepage/>} />
+     <Route path='/' element={<Homepage/>}/>
      <Route path='/zion-graphics/terms' element={<Terms/>}/>
      <Route path='/zion-graphics/privacy' element={<Privacy/>}/>
      <Route path='/zion-graphics/about-us' element={<About/>}/>
