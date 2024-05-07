@@ -1,5 +1,7 @@
 import { React, useEffect, useRef } from "react";
 import { NavLink } from "react-router-dom";
+// import { useHistory } from 'react-router-dom';
+
 // import zionGif from '../assets/zion-graphics.gif'
 import zionBest from "../assets/zionBest.jpeg";
 import one from "../assets/one.jpeg";
@@ -19,6 +21,12 @@ import { IoLogoWhatsapp } from "react-icons/io";
 import { SiGmail } from "react-icons/si";
 
 const Homepage = () => {
+  // const history = useHistory();
+
+  // useEffect(() => {
+  //   history.push('/');
+  // }, [history]);
+
   const handleNextClick = () => {
     const items = document.querySelectorAll(".item");
     document.querySelector(".slide").appendChild(items[0]);
