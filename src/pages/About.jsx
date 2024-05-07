@@ -1,7 +1,15 @@
 import React from 'react'
+import { useNavigate } from "react-router-dom";
+import { useEffect } from "react";
 import brand from "../assets/brand.jpeg"
 
 const About = () => {
+  const navigate = useNavigate();
+
+  useEffect(() => {
+    // Redirect to the home page when the component mounts (page refresh)
+    navigate('/');
+  }, [navigate]);
   return (
     <>
     <div className='aboutPage'>

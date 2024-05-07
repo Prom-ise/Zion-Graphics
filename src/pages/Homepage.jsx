@@ -1,6 +1,5 @@
 import { React, useEffect, useRef } from "react";
-import { NavLink } from "react-router-dom";
-// import { useHistory } from 'react-router-dom';
+import { NavLink, useNavigate } from "react-router-dom";
 
 // import zionGif from '../assets/zion-graphics.gif'
 import zionBest from "../assets/zionBest.jpeg";
@@ -21,11 +20,12 @@ import { IoLogoWhatsapp } from "react-icons/io";
 import { SiGmail } from "react-icons/si";
 
 const Homepage = () => {
-  // const history = useHistory();
+  const navigate = useNavigate();
 
-  // useEffect(() => {
-  //   history.push('/');
-  // }, [history]);
+  useEffect(() => {
+    // Redirect to the home page when the component mounts (page refresh)
+    navigate('/');
+  }, [navigate]);
 
   const handleNextClick = () => {
     const items = document.querySelectorAll(".item");
